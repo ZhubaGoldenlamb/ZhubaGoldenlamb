@@ -14,7 +14,7 @@ I’m currently working on:
 ### 🔥 Featured Projects
 
 <a href="https://github.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park">
-  <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park/main/Workflow_Presentation_Image.png" width="500">
+  <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park/main/Workflow_Presentation_Image.png" width="200">
 </a>
 
 #### **Developed Fire Risk Model for Joshua Tree National Park**
