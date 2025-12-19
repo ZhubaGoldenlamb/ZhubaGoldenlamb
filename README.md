@@ -6,5 +6,4 @@ I’m currently working on:
 • Drone LiDAR analysis to detect invasive oak beetles for Los Angeles County Fire Department
 • Post-fire water quality monitoring for NASA JPL
 
-If you'd like to connect or collaborate, feel free to reach me on LinkedIn:
-🔗 https://www.linkedin.com/in/zhubagoldenlamb/
+If you'd like to connect or collaborate, feel free to reach me on [LinkedIn] (https://www.linkedin.com/in/zhubagoldenlamb/)
