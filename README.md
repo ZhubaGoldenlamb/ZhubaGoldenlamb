@@ -13,10 +13,13 @@ I’m currently working on:
 
 ### 🔥 Featured Projects
 
-[![Fire Risk Model Thumbnail](https://raw.githubusercontent.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park/main/figures/Workflow_Presentation_Image.png)](https://github.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park)
+[![Fire Risk Model Thumbnail](https://raw.githubusercontent.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park/main/Workflow_Presentation_Image.png)](https://github.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park)
 
 #### **Developed Fire Risk Model for Joshua Tree National Park**
 A Sentinel-2 NDVI workflow for identifying high-risk fire conditions in desert ecosystems.  
 [➡️ View the repository](https://github.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park)
+
+---
+
 
 ---
