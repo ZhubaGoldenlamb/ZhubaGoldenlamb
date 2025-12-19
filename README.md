@@ -8,3 +8,13 @@ I’m currently working on:
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhubagoldenlamb/)
+
+---
+
+### Featured Projects
+
+#### **Developed Fire Risk Model for Joshua Tree National Park**
+A Sentinel-2 NDVI workflow for identifying high-risk fire conditions in desert ecosystems.  
+[➡️ View the repository](https://github.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park)
+
+---
