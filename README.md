@@ -6,9 +6,6 @@ I’m currently working on:
 - Drone LiDAR analysis to detect invasive oak beetles for Los Angeles County Fire Department  
 - Post-fire water quality monitoring for NASA JPL  
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhubagoldenlamb/)
-
 ---
 
 ### 🔥 Featured Projects
@@ -25,3 +22,12 @@ A Sentinel-2 NDVI workflow for identifying high-risk fire conditions in desert e
 </a>
 
 ---
+
+## 🎓 Certifications
+
+- **Certificate of Achievement in Geospatial Technology** — Santa Monica College  
+- **FAA Part 107 Remote Pilot Certificate** (Unmanned Aircraft Systems)
+
+---
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhubagoldenlamb/)
