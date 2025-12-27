@@ -7,11 +7,14 @@ My name is Zhuba. I’m an environmental scientist specializing in remote sensin
 
 Selected GIS projects demonstrating spatial analysis, remote sensing, Web GIS applications, and geospatial communication.
 
+---
+
+#### **1. Developed Fire Risk Model for Joshua Tree National Park**
+
 <a href="https://github.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park">
   <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park/main/Workflow_Presentation_Image.png" width="250">
 </a>
 
-#### **1. Developed Fire Risk Model for Joshua Tree National Park**
 A Sentinel-2 NDVI workflow for identifying high-risk fire conditions in desert ecosystems.
 
 <a href="https://github.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park">
@@ -23,6 +26,7 @@ A Sentinel-2 NDVI workflow for identifying high-risk fire conditions in desert e
 ---
 
 #### **2. Joshua Tree Wildfire StoryMap**
+
 An interactive ArcGIS StoryMap visualizing wildfire history through time using burn scar polygons over vegetation communities, highlighting the role of Cheatgrass habitat and prior wet years in fire occurrence.
 
 <a href="https://github.com/YOUR_USERNAME/YOUR_STORYMAP_REPO">
@@ -34,6 +38,7 @@ An interactive ArcGIS StoryMap visualizing wildfire history through time using b
 ---
 
 #### **3. Environmental Justice Analysis (ArcGIS Pro Visualization)**
+
 A video walkthrough explaining an environmental justice issue using spatial analysis and visualization in ArcGIS Pro, demonstrating how geospatial data can be used to communicate inequities clearly.
 
 ▶️ **[Watch the video](https://photos.app.goo.gl/USkHsfBCL71qPfnJ9)**
