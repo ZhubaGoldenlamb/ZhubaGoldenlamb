@@ -29,7 +29,7 @@ A Sentinel-2 NDVI workflow for identifying high-risk fire conditions in desert e
 
 An interactive ArcGIS StoryMap visualizing wildfire history through time using burn scar polygons over vegetation communities, highlighting the role of Cheatgrass habitat and prior wet years in fire occurrence.
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_STORYMAP_REPO">
+<a href="https://github.com/ZhubaGoldenlamb/Joshua-Tree-Fire-History-StoryMap">
   <img src="https://img.shields.io/badge/View%20StoryMap%20Project-2C7BE5?style=for-the-badge&logo=arcgis&logoColor=white">
 </a>
 
