@@ -16,6 +16,11 @@ A Sentinel-2 NDVI workflow for identifying high-risk fire conditions in desert e
   <img src="https://img.shields.io/badge/View%20Fire%20Risk%20Model-ec6f47?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+**Environmental Justice Analysis (ArcGIS Pro Visualization)**  
+A video walkthrough explaining an environmental justice issue using spatial analysis and visualization in ArcGIS Pro, demonstrating how geospatial data can be used to communicate inequities clearly.
+
+▶️ **[Watch the video](https://photos.app.goo.gl/USkHsfBCL71qPfnJ9)**
+
 ---
 
 ## 🎓 Certifications
