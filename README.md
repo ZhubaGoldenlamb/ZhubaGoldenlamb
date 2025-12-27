@@ -18,10 +18,23 @@ A Sentinel-2 NDVI workflow for identifying high-risk fire conditions in desert e
 
 &nbsp;
 
-**Environmental Justice Analysis (ArcGIS Pro Visualization)**  
+---
+
+#### **Joshua Tree Wildfire StoryMap**
+An interactive ArcGIS StoryMap visualizing wildfire history through time using burn scar polygons over vegetation communities, highlighting the role of Cheatgrass habitat and prior wet years in fire occurrence.
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_STORYMAP_REPO">
+  <img src="https://img.shields.io/badge/View%20StoryMap%20Project-2C7BE5?style=for-the-badge&logo=arcgis&logoColor=white">
+</a>
+
+&nbsp;
+
+---
+
+#### **Environmental Justice Analysis (ArcGIS Pro Visualization)**
 A video walkthrough explaining an environmental justice issue using spatial analysis and visualization in ArcGIS Pro, demonstrating how geospatial data can be used to communicate inequities clearly.
 
-&nbsp;&nbsp;▶️ **[Watch the video](https://photos.app.goo.gl/USkHsfBCL71qPfnJ9)**
+▶️ **[Watch the video](https://photos.app.goo.gl/USkHsfBCL71qPfnJ9)**
 
 ---
 
