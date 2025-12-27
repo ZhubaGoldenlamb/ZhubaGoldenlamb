@@ -5,6 +5,8 @@ My name is Zhuba. I’m an environmental scientist specializing in remote sensin
 
 ### 🔥 Featured Projects
 
+Selected GIS projects demonstrating spatial analysis, remote sensing, Web GIS applications, and geospatial communication.
+
 <a href="https://github.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park">
   <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park/main/Workflow_Presentation_Image.png" width="250">
 </a>
