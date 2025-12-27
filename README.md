@@ -11,7 +11,7 @@ Selected GIS projects demonstrating spatial analysis, remote sensing, Web GIS ap
   <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park/main/Workflow_Presentation_Image.png" width="250">
 </a>
 
-#### **Developed Fire Risk Model for Joshua Tree National Park**
+#### **1. Developed Fire Risk Model for Joshua Tree National Park**
 A Sentinel-2 NDVI workflow for identifying high-risk fire conditions in desert ecosystems.
 
 <a href="https://github.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park">
@@ -22,7 +22,7 @@ A Sentinel-2 NDVI workflow for identifying high-risk fire conditions in desert e
 
 ---
 
-#### **Joshua Tree Wildfire StoryMap**
+#### **2. Joshua Tree Wildfire StoryMap**
 An interactive ArcGIS StoryMap visualizing wildfire history through time using burn scar polygons over vegetation communities, highlighting the role of Cheatgrass habitat and prior wet years in fire occurrence.
 
 <a href="https://github.com/YOUR_USERNAME/YOUR_STORYMAP_REPO">
@@ -33,7 +33,7 @@ An interactive ArcGIS StoryMap visualizing wildfire history through time using b
 
 ---
 
-#### **Environmental Justice Analysis (ArcGIS Pro Visualization)**
+#### **3. Environmental Justice Analysis (ArcGIS Pro Visualization)**
 A video walkthrough explaining an environmental justice issue using spatial analysis and visualization in ArcGIS Pro, demonstrating how geospatial data can be used to communicate inequities clearly.
 
 ▶️ **[Watch the video](https://photos.app.goo.gl/USkHsfBCL71qPfnJ9)**
