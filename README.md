@@ -1,5 +1,5 @@
 Hi there 👋  
-My name is Zhuba. I’m an environmental scientist specializing in remote sensing and currently completing my **Master’s in GIS (expected August 2026)**. I’ve worked with the National Park Service, Los Angeles County, and NASA JPL on projects supporting climate resilience and land management.
+My name is Zhuba. I build GIS and remote sensing workflows that transform spatial data into reliable tools for analysis and decision-making. I have professional experience with the National Park Service, Los Angeles County, and NASA JPL, and I’m completing a Master’s in GIS focused on applied spatial systems.
 
 ---
 
