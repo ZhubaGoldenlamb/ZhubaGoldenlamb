@@ -1,5 +1,5 @@
 Hi there 👋  
-My name is Zhuba. I build GIS and remote sensing workflows that transform spatial data into reliable tools for analysis and decision-making. I have professional experience with the National Park Service, Los Angeles County, and NASA JPL, and I’m completing a Master’s in GIS focused on applied spatial systems.
+My name is Zhuba. I build GIS and remote sensing workflows that transform spatial data into reliable tools for analysis and decision-making. I have professional experience with the National Park Service, Los Angeles County, and NASA JPL, and I’m completing a Master’s in GIS focused on spatial data management, automation, and creating outputs for clients.
 
 ---
 
