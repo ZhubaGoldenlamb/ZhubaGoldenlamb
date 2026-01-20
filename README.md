@@ -37,6 +37,24 @@ An interactive ArcGIS StoryMap visualizing wildfire history through time using b
 
 ---
 
+#### **3. Geospatial Applications Development**
+
+A collection of interactive geospatial applications demonstrating **Power BI dashboard development**, **ArcGIS Experience Builder Web GIS**, and **Survey123 data integration**. This project focuses on application design, data workflows, and user interaction rather than standalone analysis.
+
+Key features include:
+- Power BI dashboards integrating Yelp data with user-submitted Survey123 responses
+- Rating-class dropdowns and cross-filtering across maps, charts, and summary cards
+- Feature-level survey integration displayed in ArcGIS Experience Builder pop-ups
+- Data cleaning and validation workflows to support reliable links and interactivity across platforms
+
+<a href="https://github.com/ZhubaGoldenlamb/Geospatial-Applications-Development">
+  <img src="https://img.shields.io/badge/View%20Applications%20Repo-6f42c1?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+&nbsp;
+
+---
+
 #### **3. Environmental Justice Analysis (ArcGIS Pro Visualization)**
 
 A video walkthrough explaining an environmental justice issue using spatial analysis and visualization in ArcGIS Pro, demonstrating how geospatial data can be used to communicate inequities clearly.
