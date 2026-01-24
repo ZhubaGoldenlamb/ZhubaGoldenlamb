@@ -12,7 +12,7 @@ Selected GIS projects demonstrating spatial analysis, remote sensing, Web GIS ap
 #### **1. Developed Fire Risk Model for Joshua Tree National Park**
 
 <a href="https://github.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park">
-  <img src="images/cover_workflow.png" width="250">
+  <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park/main/images/cover_workflow.png" width="250">
 </a>
 
 A Sentinel-2 NDVI workflow for identifying high-risk fire conditions in desert ecosystems.
