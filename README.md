@@ -55,7 +55,7 @@ Key features include:
 
 ---
 
-#### **3. Environmental Justice Analysis (ArcGIS Pro Visualization)**
+#### **4. Environmental Justice Analysis (ArcGIS Pro Visualization)**
 
 A video walkthrough explaining an environmental justice issue using spatial analysis and visualization in ArcGIS Pro, demonstrating how geospatial data can be used to communicate inequities clearly.
 
