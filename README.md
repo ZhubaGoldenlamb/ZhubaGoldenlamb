@@ -1,21 +1,39 @@
 Hi there 👋  
-My name is Zhuba. I build GIS and remote sensing workflows that transform spatial data into reliable analysis and decision-support tools. I have professional experience with the National Park Service, Los Angeles County, and NASA Jet Propulsion Laboratory (JPL), and I’m completing a Master’s in GIS where I’m working with Python-based geospatial processing, spatial databases, and scalable data workflows.
+My name is Zhuba. I build GIS and remote sensing workflows that transform spatial data into reliable analysis and decision-support tools.
+
+My work bridges **environmental systems, spatial modeling, and application development**. I have professional experience with the National Park Service, Los Angeles County, and NASA Jet Propulsion Laboratory (JPL), and I’m completing a Master’s in GIS focused on Python-based geospatial processing, spatial databases, and scalable data workflows.
 
 ---
 
-### 🔥 Featured Projects
+# 🌿 Environmental Systems & Field Operations
 
-Selected GIS projects demonstrating spatial analysis, remote sensing, Web GIS applications, and geospatial communication.
+Before transitioning fully into GIS, I led nursery operations and conducted large-scale botanical fieldwork at Joshua Tree National Park. This work informs how I approach spatial modeling — with ecological realism and operational awareness.
+
+### Joshua Tree Nursery Operations & Botanical Field Systems
+
+<a href="https://github.com/ZhubaGoldenlamb/joshua-tree-nursery-operations-sop">
+  <img src="https://img.shields.io/badge/View%20Nursery%20Operations%20Repo-3A7D44?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+- Led propagation of **6,000 plants (20+ native species)** over 18 months  
+- Installed greenhouse cooling infrastructure and irrigation systems  
+- Supervised volunteers and conservation crews  
+- Completed sediment control and structural improvement projects  
+- QA/QC’d ~100,000 rows of botanical field data using dichotomous keys  
+
+This repository documents the operational, infrastructure, and botanical systems that ground my GIS work in real-world environmental conditions.
 
 ---
 
-#### **1. Developed Fire Risk Model for Joshua Tree National Park**
+# 🔥 Applied Spatial Modeling
+
+### Developed Fire Risk Model for Joshua Tree National Park
 
 <a href="https://github.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park">
   <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park/main/images/cover_workflow.png" width="250">
 </a>
 
-A Sentinel-2 NDVI workflow for identifying high-risk fire conditions in desert ecosystems.
+A Sentinel-2 NDVI workflow identifying high-risk fire conditions in desert ecosystems, translating field-based ecological knowledge into spatial risk modeling.
 
 <a href="https://github.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park">
   <img src="https://img.shields.io/badge/View%20Fire%20Risk%20Model-ec6f47?style=for-the-badge&logo=github&logoColor=white">
@@ -23,43 +41,30 @@ A Sentinel-2 NDVI workflow for identifying high-risk fire conditions in desert e
 
 &nbsp;
 
----
+### Environmental Justice Analysis (ArcGIS Pro)
 
-#### **2. Joshua Tree Wildfire StoryMap**
+A video walkthrough explaining an environmental justice issue using spatial analysis and visualization in ArcGIS Pro, demonstrating how geospatial data can communicate inequities clearly and responsibly.
 
-An interactive ArcGIS StoryMap visualizing wildfire history through time using burn scar polygons over vegetation communities, highlighting the role of Cheatgrass habitat and prior wet years in fire occurrence.
-
-<a href="https://github.com/ZhubaGoldenlamb/Joshua-Tree-Fire-History-StoryMap">
-  <img src="https://img.shields.io/badge/View%20StoryMap%20Project-2C7BE5?style=for-the-badge&logo=arcgis&logoColor=white">
-</a>
-
-&nbsp;
+▶️ **[Watch the video](https://photos.app.goo.gl/USkHsfBCL71qPfnJ9)**
 
 ---
 
-#### **3. Geospatial Applications Development**
+# 🗺️ Geospatial Application Development
 
-A collection of interactive geospatial applications demonstrating **Power BI dashboard development**, **ArcGIS Experience Builder Web GIS**, and **Survey123 data integration**. This project focuses on application design, data workflows, and user interaction rather than standalone analysis.
-
-Key features include:
-- Power BI dashboards integrating Yelp data with user-submitted Survey123 responses
-- Rating-class dropdowns and cross-filtering across maps, charts, and summary cards
-- Feature-level survey integration displayed in ArcGIS Experience Builder pop-ups
-- Data cleaning and validation workflows to support reliable links and interactivity across platforms
+### Geospatial Applications Development
 
 <a href="https://github.com/ZhubaGoldenlamb/Geospatial-Applications-Development">
   <img src="https://img.shields.io/badge/View%20Applications%20Repo-6f42c1?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-&nbsp;
+A collection of interactive geospatial applications demonstrating:
 
----
+- **Power BI dashboard development**
+- **ArcGIS Experience Builder Web GIS**
+- **Survey123 data integration**
+- Cross-platform data validation and workflow design
 
-#### **4. Environmental Justice Analysis (ArcGIS Pro Visualization)**
-
-A video walkthrough explaining an environmental justice issue using spatial analysis and visualization in ArcGIS Pro, demonstrating how geospatial data can be used to communicate inequities clearly.
-
-▶️ **[Watch the video](https://photos.app.goo.gl/USkHsfBCL71qPfnJ9)**
+This work focuses on application architecture, user interaction, and structured data workflows that support scalable municipal and organizational decision systems.
 
 ---
 
@@ -67,7 +72,10 @@ A video walkthrough explaining an environmental justice issue using spatial anal
 
 - **Certificate of Achievement in Geospatial Technology** — Santa Monica College  
 - **FAA Part 107 Remote Pilot Certificate** (Unmanned Aircraft Systems)
+- **Master of Science in Geographic Information and Technology** (Graduation August 2026)
 
 ---
-### Connect with me:
+
+### Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhubagoldenlamb/)
