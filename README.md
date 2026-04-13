@@ -41,12 +41,6 @@ A Sentinel-2 NDVI workflow identifying high-risk fire conditions in desert ecosy
 
 &nbsp;
 
-### Environmental Justice Analysis (ArcGIS Pro)
-
-A video walkthrough explaining an environmental justice issue using spatial analysis and visualization in ArcGIS Pro, demonstrating how geospatial data can communicate inequities clearly and responsibly.
-
-▶️ **[Watch the video](https://photos.app.goo.gl/USkHsfBCL71qPfnJ9)**
-
 ---
 
 # 📄 Environmental Research & Spatial Analysis
