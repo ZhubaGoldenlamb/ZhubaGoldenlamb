@@ -59,10 +59,8 @@ These projects reflect end-to-end workflows — from **data collection in the fi
 
 ## 🌿 Butte Creek Restoration — Invasive Species Monitoring
 
-## 🌿 Butte Creek Restoration — Invasive Species Monitoring
-
 <a href="https://github.com/ZhubaGoldenlamb/environmental-research/blob/main/README.md">
-  <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/environmental-research/main/ulmus_distribution_map.jpg" width="500">
+  <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/environmental-research/main/ulmus_distribution_map.jpg" width="300">
 </a>
 
 A GIS-supported ecological study analyzing the spread of **Siberian elm (*Ulmus pumila*)** and evaluating long-term riparian restoration outcomes.
@@ -79,7 +77,7 @@ A GIS-supported ecological study analyzing the spread of **Siberian elm (*Ulmus 
 ## 🌊 Estero Sargento — Coastal Vegetation Mapping
 
 <a href="https://github.com/ZhubaGoldenlamb/environmental-research/blob/main/README.md">
-  <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/environmental-research/main/estero_vegetation_map.png" width="500">
+  <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/environmental-research/main/estero_vegetation_map.png" width="300">
 </a>
 
 A remote sensing and field validation project mapping vegetation communities in a coastal wetland in the **Gulf of California, Mexico**.
