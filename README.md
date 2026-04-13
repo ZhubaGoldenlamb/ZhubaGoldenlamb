@@ -59,15 +59,13 @@ These projects reflect end-to-end workflows — from **data collection in the fi
 
 ## 🌿 Butte Creek Restoration — Invasive Species Monitoring
 
-<a href="https://github.com/ZhubaGoldenlamb/butte-creek-restoration">
-  <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/butte-creek-restoration/main/MEDIA/banner.jpg" width="500">
+## 🌿 Butte Creek Restoration — Invasive Species Monitoring
+
+<a href="https://github.com/ZhubaGoldenlamb/environmental-research/blob/main/README.md">
+  <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/environmental-research/main/ulmus_distribution_map.jpg" width="500">
 </a>
 
 A GIS-supported ecological study analyzing the spread of **Siberian elm (*Ulmus pumila*)** and evaluating long-term riparian restoration outcomes.
-
-<a href="https://github.com/ZhubaGoldenlamb/butte-creek-restoration">
-  <img src="https://img.shields.io/badge/View%20Project-3A7D44?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
 - Reduced invasive dominance from **78% → 38%** through restoration  
 - Collected and mapped field data using **Trimble GPS + QGIS**  
@@ -80,15 +78,11 @@ A GIS-supported ecological study analyzing the spread of **Siberian elm (*Ulmus 
 
 ## 🌊 Estero Sargento — Coastal Vegetation Mapping
 
-<a href="https://github.com/ZhubaGoldenlamb/estero-sargento-mapping">
-  <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/estero-sargento-mapping/main/MEDIA/banner.jpg" width="500">
+<a href="https://github.com/ZhubaGoldenlamb/environmental-research/blob/main/README.md">
+  <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/environmental-research/main/estero_vegetation_map.png" width="500">
 </a>
 
 A remote sensing and field validation project mapping vegetation communities in a coastal wetland in the **Gulf of California, Mexico**.
-
-<a href="https://github.com/ZhubaGoldenlamb/estero-sargento-mapping">
-  <img src="https://img.shields.io/badge/View%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
 - Conducted during a **4-month field station program in Mexico**  
 - Classified vegetation using **LANDSAT + TSAVI + ArcGIS**  
@@ -97,17 +91,6 @@ A remote sensing and field validation project mapping vegetation communities in 
 
 This project contributes baseline geospatial data for **Indigenous-managed coastal ecosystems** and supports conservation planning.
 
----
-
-## 🧭 Research Focus
-
-Across these projects, I focus on:
-
-- **Coupling field data with spatial analysis**
-- Translating ecological systems into **quantifiable geospatial models**
-- Building workflows that support **real-world environmental decisions**
-- Maintaining **data integrity from collection → analysis → output**
-  
 ---
 
 # 🗺️ Geospatial Application Development
