@@ -50,16 +50,15 @@ A video walkthrough explaining an environmental justice issue using spatial anal
 ---
 
 # 📄 Environmental Research & Spatial Analysis
-These research projects apply GIS and remote sensing to real-world environmental systems, combining field data collection with spatial analysis and ecological interpretation.
-My research integrates **field ecology, GIS, and remote sensing** to analyze environmental systems and produce decision-relevant insights.
 
-These projects reflect end-to-end workflows — from **data collection in the field → spatial analysis → ecological interpretation → communication to stakeholders**.
+These projects apply **GIS and remote sensing to real-world environmental systems**, combining field data collection with spatial analysis and ecological interpretation.
 
+<a href="https://github.com/ZhubaGoldenlamb/environmental-research">
+  <img src="https://img.shields.io/badge/View%20Full%20Research%20Portfolio-2E8B57?style=for-the-badge&logo=github&logoColor=white">
+</a>
 ---
 
 ## 🌿 Butte Creek Restoration — Invasive Species Monitoring
-
-<a href="https://github.com/ZhubaGoldenlamb/environmental-research/blob/main/README.md">
   <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/environmental-research/main/ulmus_distribution_map.jpg" width="300">
 </a>
 
@@ -76,7 +75,6 @@ A GIS-supported ecological study analyzing the spread of **Siberian elm (*Ulmus 
 
 ## 🌊 Estero Sargento — Coastal Vegetation Mapping
 
-<a href="https://github.com/ZhubaGoldenlamb/environmental-research/blob/main/README.md">
   <img src="https://raw.githubusercontent.com/ZhubaGoldenlamb/environmental-research/main/estero_vegetation_map.png" width="300">
 </a>
 
