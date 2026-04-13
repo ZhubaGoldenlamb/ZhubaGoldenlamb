@@ -52,10 +52,10 @@ A video walkthrough explaining an environmental justice issue using spatial anal
 # 📄 Environmental Research & Spatial Analysis
 
 These projects apply **GIS and remote sensing to real-world environmental systems**, combining field data collection with spatial analysis and ecological interpretation.
-
 <a href="https://github.com/ZhubaGoldenlamb/environmental-research">
   <img src="https://img.shields.io/badge/View%20Full%20Research%20Portfolio-2E8B57?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
 ---
 
 ## 🌿 Butte Creek Restoration — Invasive Species Monitoring
